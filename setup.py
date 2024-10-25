@@ -9,9 +9,8 @@ pkg = "vimbuffer"
 setup(
     name=pkg,
     version="0.1.4",
-    url="https://github.com/seanbreckenridge/vimbuffer",
-    author="Sean Breckenridge",
-    author_email="seanbrecke@gmail.com",
+    url="https://github.com/purarue/vimbuffer",
+    author="purarue",
     description="Edit files, and strings in temporary vim (or some other console editor) buffers.",
     long_description=long_description,
     long_description_content_type="text/markdown",
